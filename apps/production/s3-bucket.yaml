@@ -6,6 +6,6 @@ metadata:
 spec:
   name: "eks-gitops-workshop-400078104678"
   tagging:
-  tagSet:
-  - key: application
-    value: podinfo
+    tagSet:
+    - key: application
+      value: podinfo
